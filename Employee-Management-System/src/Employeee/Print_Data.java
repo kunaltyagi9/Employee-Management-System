@@ -25,7 +25,7 @@ class Print_Data implements ActionListener{
                 father = rs.getString("fname");
                 age = rs.getString("age");
                 dob = rs.getString("dob");
-                address = rs.getString("addess");
+                address = rs.getString("address");
                 phone = rs.getString("phone");
                 email = rs.getString("email");
                 education = rs.getString("education");
